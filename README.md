@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @engjuanfrazao
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python, HTML, CSS, JavaScript
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me eng.juanfrazao@gmail.com
 
